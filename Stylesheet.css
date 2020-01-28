@@ -1,0 +1,15 @@
+/* CSS Document */
+body{background-color:#000066;}
+#logo{position:absolute; right:40px;}
+.head{font-size:xx-large; color:#FFFFFF;}
+.text{background-color:#FFF; color:#000; padding-right:10px; text-align:center; font-size:18px; line-height:200%; display:block; overflow:auto;}
+nav{background-color:#FFFFFF; float:left; border:5px solid; border-color:#000000; padding-right:10px; color:#000}
+.Bub{float:right;}
+nav ul li{list-style-type:none; width:120px; display:block;}
+li a:hover{background-color:#FF0;}
+.pics{float:right; display:block;}
+.prod{display: block; border: 5px solid; background-color:#FFF; color:#006; border-color:#000; float:right;}
+.stuff{color:#000; padding:0px; text-align:center;}
+.shop{color:#000; padding-right:10px; text-align:center; line-height:200%; display:block;}
+fieldset{background-color:#FFFFFF; padding:5px;}
+footer{color:#0F0; background-color:#000000; width:100%; float:bottom; text-align:center;}
